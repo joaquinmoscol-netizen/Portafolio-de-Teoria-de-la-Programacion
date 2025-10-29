@@ -11,10 +11,10 @@
 - 🛠️ [Uso de herramientas de pseudocódigo y diagramas de flujo](MOSCOL_CASTILLO_JOAQUINEMILIO_AA1.pdf)
 - 💻 [Instalación de lenguajes de programación (C, Python o Java)](MOSCOL_CASTILLO_JOAQUINEMILIO_AA2.pdf)
 - 🚀 [Primer ejercicio con estructuras secuenciales en pseudocódigo](MOSCOL_CASTILLO_JOAQUINEMILIO_PL1.pdf)
-- 🔄 [Del algoritmo al programa funcional](Teoría de la programación -Formato Reporte técnico APE Joaquin Moscol.pdf)
+- 🔄 [Del algoritmo al programa funcional](MOSCOL_CASTILLO_JOAQUINEMILIO_APE1.pdf)
   
--🔹 [Codigo en PSeint del ejercicio "Del algoritmo al programa funcional"](https://drive.google.com/file/d/1Gpal8sE63zchTQlgkBBrFHHYpr7DMTTc/viewusp=drive_link).
--🔹 [Codigo en C del ejercicio "Del algoritmo al programa funcional"](https://drive.google.com/file/d/1TITN_b2t55YA2rcrBPdRkDeyD4eoD4Dk/view?usp=drive_link).
+-🔹 [Codigo en PSeint del ejercicio "Del algoritmo al programa funcional"](Nota 3er Certamen C++.cpp). 
+-🔹 [Codigo en C del ejercicio "Del algoritmo al programa funcional"](Nota 3er Certamen PSeint.psc) 
 
 
 [⬅️ Volver al inicio](Inicio.md)
