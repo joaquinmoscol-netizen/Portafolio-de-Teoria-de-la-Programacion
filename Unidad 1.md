@@ -8,9 +8,12 @@
 - 💡 [Reflexión final del aprendizaje](reflexion.md)
 
 ### ■ Tareas Entregadas
-- 🛠️ [Uso de herramientas de pseudocódigo y diagramas de flujo](https://drive.google.com/file/d/127Nll2YBaULFVnwQ9taxHrYoEjSBgUwS/view?usp=drive_link)
-- 💻 [Instalación de lenguajes de programación (C, Python o Java)](https://drive.google.com/file/d/1zodcfJDc8dbWbawZpNqwYF4P3tHaPMnP/view?usp=sharing)
-- 🚀 [Primer ejercicio con estructuras secuenciales en pseudocódigo](https://drive.google.com/file/d/1M4Tlqqz9RTMFijguFvo8714wxyn2LT-G/view?usp=sharing)
-- 🔄 [Del algoritmo al programa funcional](https://drive.google.com/file/d/1IWiFp7sEysGCJWl10wzxrS92Dgv0XbTK/view?usp=drive_link)
+- 🛠️ [Uso de herramientas de pseudocódigo y diagramas de flujo](https://drive.google.com/file/d/1bLxLz8HuZx-FXGmQT46qpbpAc__fFk5J/view?usp=drive_link)
+- 💻 [Instalación de lenguajes de programación (C, Python o Java)](https://drive.google.com/file/d/1SpwQk7eIqABxfz5TbEpuTA_ROHtMHSuv/view?usp=sharing)
+- 🚀 [Primer ejercicio con estructuras secuenciales en pseudocódigo](https://drive.google.com/file/d/1vqQP7yntVEDepbsb008SJ-_iH3W-AL5A/view?usp=sharing)
+- 🔄 [Del algoritmo al programa funcional](https://drive.google.com/file/d/12LdLeStbRSwfHjK48oRYdICYQFTF8oef/view?usp=sharing)
+-🔹 [Codigo en PSeint del ejercicio "Del algoritmo al programa funcional"](https://drive.google.com/file/d/1Gpal8sE63zchTQlgkBBrFHHYpr7DMTTc/viewusp=drive_link).
+-🔹 [Codigo en C del ejercicio "Del algoritmo al programa funcional"](https://drive.google.com/file/d/1TITN_b2t55YA2rcrBPdRkDeyD4eoD4Dk/view?usp=drive_link).
+
 
 [⬅️ Volver al inicio](Inicio.md)
