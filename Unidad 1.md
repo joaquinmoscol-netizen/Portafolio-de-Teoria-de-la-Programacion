@@ -13,7 +13,17 @@
 - 🚀 [Primer ejercicio con estructuras secuenciales en pseudocódigo](MOSCOL_CASTILLO_JOAQUINEMILIO_PL1.pdf)
 - 🔄 [Del algoritmo al programa funcional](MOSCOL_CASTILLO_JOAQUINEMILIO_APE1.pdf)
   
--🔹 [Codigo en PSeint del ejercicio "Del algoritmo al programa funcional"](Nota 3er Certamen C++.cpp). 
+-🔹 Codigo en PSeint del ejercicio "Del algoritmo al programa funcional"MOSCOL_CASTILLO_JOAQUINEMILIO PSeint.psc 
+-🔹 Codigo en PSeint del ejercicio "Del algoritmo al programa funcional" MOSCOL_CASTILLO_JOAQUINEMILIO PSeint.psc
+-🔹 Codigo en PSeint del ejercicio "Del algoritmo al programa funcional": MOSCOL_CASTILLO_JOAQUINEMILIO PSeint.psc 
+
+- 🔹 Codigo en PSeint del ejercicio "Del algoritmo al programa funcional": MOSCOL_CASTILLO_JOAQUINEMILIO PSeint.psc
+(deja una línea en blanco aquí)
+
+- 🔹 Codigo en C del ejercicio "Del algoritmo al programa funcional": Nota 3er Certamen PSeint.psc
+(deja una línea en blanco aquí)
+
+
 -🔹 [Codigo en C del ejercicio "Del algoritmo al programa funcional"](Nota 3er Certamen PSeint.psc) 
 
 
