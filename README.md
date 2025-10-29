@@ -1,24 +1,39 @@
 # Portafolio de Teoria de la Programacion - Joaquin Moscol
-## Teoría de la Programación – Unidad 1  
+# 📘 Portafolio Digital de Aprendizaje  
+## 🧩 Teoría de la Programación – Unidad 1  
 
-**Carrera:** Ingeniería en Computación  
-**Universidad:** Universidad Nacional de Loja  
-**Semestre / Año:** 2025  
+---
 
-**Nombre del estudiante:** Tu Nombre Completo  
+### 🏛️ Universidad Nacional de Loja  
+**Facultad:** Energía, las Industrias y los Recursos Naturales No Renovables  
+**Carrera:** Computación  
 **Asignatura:** Teoría de la Programación  
-**Docente:** Nombre del docente  
+**Ciclo:** Primer  
+**Período Académico:** Octubre 2025 – Febrero 2026  
 
 ---
 
-### 📂 Contenido de este repositorio
+### 👨‍🎓 Estudiante
+**Nombre:** Joaquín Emilio Moscol Castillo  
 
-- Carátula  
-- Tareas / Actividades  
-- Recursos / Enlaces  
-- Reflexiones del aprendizaje  
-- Bibliografía  
+### 👨‍🏫 Docente
+**Nombre:** Lissette Geoconda López Faicán  
 
 ---
 
-> “Este portafolio muestra las actividades realizadas durante la Unidad 1. Fue elaborado con mis propios trabajos y apoyos estructurales, adaptando el formato de un ejemplo visto en GitHub.”  
+## 📑 Contenido del Portafolio
+
+- 🏠 [Inicio](Inicio.md)
+- 📘 [Unidad 1](Unidad%201.md)
+  - [Algoritmos, pseudocódigo, diagrama de flujo](Algoritmos.md)
+  - [Programación por bloques](bloques.md)
+  - [Ejemplos de algoritmos con estructuras secuenciales](Ejemplos.md)
+  - [Principales dificultades](dificultades.md)
+  - [Reflexión crítica](reflexion.md)
+
+---
+
+> 📄 **Declaración de uso de IA generativa:**  
+> Este portafolio fue desarrollado con apoyo de la herramienta ChatGPT, utilizada como tutor de acompañamiento para la organización del contenido y diseño visual del portafolio.
+
+[➡️ Ir a la Unidad 1](Unidad%201.md)
