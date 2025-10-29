@@ -24,11 +24,8 @@
 
 - 🏠 [Inicio](Inicio.md)
 - 📘 [Unidad 1](Unidad%201.md)
-  - [Algoritmos, pseudocódigo y diagramas de flujo](Algoritmos.md)
-  - [Programación por bloques](bloques.md)
-  - [Ejemplos con estructuras secuenciales](Ejemplos.md)
-  - [Principales dificultades encontradas](dificultades.md)
-  - [Reflexión final del aprendizaje](reflexion.md)
+- 📘 [Unidad 2]
+- 📘 [Unidad 3]
 
 ---
 
