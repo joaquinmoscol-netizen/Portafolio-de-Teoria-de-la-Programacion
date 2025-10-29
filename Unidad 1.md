@@ -8,10 +8,10 @@
 - 💡 [Reflexión final del aprendizaje](reflexion.md)
 
 ### ■ Tareas Entregadas
-- 🛠️ [Uso de herramientas de pseudocódigo y diagramas de flujo](https://drive.google.com/file/d/1bLxLz8HuZx-FXGmQT46qpbpAc__fFk5J/view?usp=drive_link)
-- 💻 [Instalación de lenguajes de programación (C, Python o Java)](https://drive.google.com/file/d/1SpwQk7eIqABxfz5TbEpuTA_ROHtMHSuv/view?usp=sharing)
+- 🛠️ [Uso de herramientas de pseudocódigo y diagramas de flujo](MOSCOL_CASTILLO_JOAQUINEMILIO_AA1.pdf)
+- 💻 [Instalación de lenguajes de programación (C, Python o Java)](MOSCOL_CASTILLO_JOAQUINEMILIO_AA2.pdf)
 - 🚀 [Primer ejercicio con estructuras secuenciales en pseudocódigo](MOSCOL_CASTILLO_JOAQUINEMILIO_PL1.pdf)
-- 🔄 [Del algoritmo al programa funcional](https://drive.google.com/file/d/12LdLeStbRSwfHjK48oRYdICYQFTF8oef/view?usp=sharing)
+- 🔄 [Del algoritmo al programa funcional](Teoría de la programación -Formato Reporte técnico APE (Joaquin Moscol).pdf)
 -🔹 [Codigo en PSeint del ejercicio "Del algoritmo al programa funcional"](https://drive.google.com/file/d/1Gpal8sE63zchTQlgkBBrFHHYpr7DMTTc/viewusp=drive_link).
 -🔹 [Codigo en C del ejercicio "Del algoritmo al programa funcional"](https://drive.google.com/file/d/1TITN_b2t55YA2rcrBPdRkDeyD4eoD4Dk/view?usp=drive_link).
 
