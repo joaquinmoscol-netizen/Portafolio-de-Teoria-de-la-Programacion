@@ -1,0 +1,44 @@
+Algoritmo sin_titulo
+	
+	//Variables
+	Definir notaC1 Como Real;
+	Definir notaC2 Como Real;
+	Definir notaC3 Como Real;
+	Definir notaLab Como Real;
+	Definir notaMin Como Real;
+
+	//Entrada
+	Escribir "Ingrese la Primera Nota Obtenida: ";
+	Leer notaC1;
+	
+	Escribir "Ingrese la Segunda Nota obtenida: ";
+	Leer notaC2;
+	
+	Escribir "Ingrese la Nota Obteninda en Laboratorio: ";
+	Leer notaLab;
+	
+	//Proceso 
+	notaMin = ( (60 - notaLab*0.3) / 0.7 ) * 3;
+	notaC3 = notaMin - notac1 - notac2;
+	
+	
+	//Salida
+	
+	Escribir "Promedio de certámenes requerido: ", (notaMin / 3)
+    Escribir "Nota mínima necesaria en C3: ", notaC3
+	
+	Si notaC3 <= 0 Entonces
+        Escribir "¡Ya aprobaste la asignatura con tus notas actuales! FELICIDADES "
+        Escribir "No necesitas puntaje en el 3er Certamen para alcanzar los 60 puntos"
+    Sino
+        Si notaC3 > 100 Entonces
+            Escribir "Con las notas actuales, es imposible aprobar."
+            Escribir "Necesitas al menos ", notaC3, " puntos en el 3er Certamen para aprobar"
+	Sino
+		Escribir "Debes obtener al menos ", Redon(notaC3), " puntos en el 3er Certamen "
+		Escribir "para alcanzar los 60 puntos finales Mucha Suerte."
+		
+		Finsi
+	FinSi
+	
+FinAlgoritmo

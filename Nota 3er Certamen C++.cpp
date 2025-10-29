@@ -1,0 +1,48 @@
+#include<iostream>
+#include <locale>
+#include <vector>
+#include <string>
+#include <cmath>
+
+using namespace std;
+
+int main(){
+
+    double notaC1 = 0, notaC2 = 0, notaC3 = 0, notaLab = 0, notaMin = 0;
+
+	//Entrada
+	cout << "-----------Ingrese la Primera Nota Obtenida:---------" << endl;
+	cin >> notaC1;
+	
+	cout << "------Ingrese la Segunda Nota obtenida:----------" << endl;
+    cin >> notaC2;  
+	
+	cout << "----------Ingrese la Nota Obteninda en Laboratorio:---------" << endl;
+	cin >> notaLab;
+	
+	//Proceso 
+	notaMin = ( (60 - notaLab*0.3) / 0.7 ) * 3;
+	notaC3 = notaMin - notaC1 - notaC2;
+	
+	//Salida 
+	
+	cout << "------------Promedio de certamenes requerido:-------- " << (notaMin / 3) << endl;
+    cout << "------------Nota minima necesaria en C3:------------ " << notaC3 << endl;
+	
+	if (notaC3 <= 0) {
+    cout << "Ya aprobaste la asignatura con tus notas actuales FELICIDADES" << endl;
+    cout << "No necesitas puntaje en el 3er Certamen para alcanzar los 60 puntos" << endl;
+} else {
+    if (notaC3 > 100) {
+        cout << "Con las notas actuales, es imposible aprobar." << endl;
+        cout << "Necesitas al menos " << notaC3 << " puntos en el 3er Certamen para aprobar" << endl;
+    } else {
+        cout << "Debes obtener al menos " << round(notaC3) << " puntos en el 3er Certamen" << endl;
+        cout << "para alcanzar los 60 puntos finales. Mucha Suerte." << endl;
+    }
+}
+
+    cin.ignore();
+    cin.get();
+    return 0;
+}
