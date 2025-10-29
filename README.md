@@ -23,17 +23,16 @@
 ## 📑 Estructura del Portafolio
 
 - 🏠 [Inicio](Inicio.md)
-- 📘 [Unidad 1](Unidad%201.md)
-  - [AA1 - Primer acercamiento a la construcción de algoritmos con estructuras secuenciales (Flowgorithm)](./Practicas/MOSCOL_CASTILLO_JOAQUINEMILIO_AA1.pdf)
-  - [AA2 - Instalación del lenguaje de programación C++](./Practicas/MOSCOL_CASTILLO_JOAQUINEMILIO_AA2.pdf)
-  - [PL1 - Cálculo del IMC en PSeInt](./Practicas/MOSCOL_CASTILLO_JOAQUINEMILIO_PL1.pdf)
-  - [APE - Reporte técnico del 3er Certamen (C++ y PSeInt)](./Practicas/Teoría%20de%20la%20programación%20-Formato%20Reporte%20técnico%20APE%20(Joaquin%20Moscol).pdf)
-  - [Código fuente C++](./Codigos/Nota%203er%20Certamen%20C++.cpp)
-  - [Código fuente en PSeInt](./Codigos/Nota%203er%20Certamen%20PSeint.psc)
+- 📘 Unidad 1  
+  - [Algoritmos, pseudocódigo y diagramas de flujo](./Practicas/MOSCOL_CASTILLO_JOAQUINEMILIO_AA1.pdf)
+  - [Programación por bloques](./Practicas/MOSCOL_CASTILLO_JOAQUINEMILIO_AA2.pdf)
+  - [Ejemplos con estructuras secuenciales](./Practicas/MOSCOL_CASTILLO_JOAQUINEMILIO_PL1.pdf)
+  - [Principales dificultades encontradas](./Practicas/Teoría%20de%20la%20programación%20-Formato%20Reporte%20técnico%20APE%20(Joaquin%20Moscol).pdf)
+  - [Reflexión final del aprendizaje](./Codigos/Nota%203er%20Certamen%20C++.cpp)
+  - [Anexo - Código en PSeInt](./Codigos/Nota%203er%20Certamen%20PSeint.psc)
 
 ---
 
 > 🤖 **Declaración de uso de IA generativa:**  
 > Este portafolio fue elaborado con el apoyo de ChatGPT como herramienta de guía para la redacción, diseño y estructuración del contenido, respetando la autoría del estudiante.
 
-[➡️ Ir a la Unidad 1](Unidad%201.md)
