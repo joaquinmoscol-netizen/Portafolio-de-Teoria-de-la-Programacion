@@ -1,4 +1,4 @@
-# 🏠 Inicio  
+# 🏠 Introducción 
 
 Bienvenido a mi **Portafolio Digital de Aprendizaje** correspondiente a la asignatura **Teoría de la Programación**.  
 En este espacio recopilo las actividades, evidencias y reflexiones desarrolladas durante la **Unidad 1**, centrada en los **algoritmos y las estructuras secuenciales**.
@@ -11,7 +11,7 @@ El objetivo de este portafolio es reflejar el proceso de aprendizaje adquirido, 
 ---
 
 ## 🧭 Navegación
-- 📄 [Carátula](Caratula.md)
+- 📄 [Volver A La Portada](Caratula.md)
 - 📘 [Unidad 1](Unidad%201.md)
 - 📘 [Unidad 1](Unidad%201.md)
 - 📘 [Unidad 2] *Proximamente* 
