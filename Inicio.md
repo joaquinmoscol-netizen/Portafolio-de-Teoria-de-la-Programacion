@@ -11,7 +11,7 @@ El objetivo de este portafolio es reflejar el proceso de aprendizaje adquirido, 
 ---
 
 ## 🧭 Navegación
-- - 📄 [Carátula](Caratula.md)
+- 📄 [Carátula](Caratula.md)
 - 📘 [Unidad 1](Unidad%201.md)
 - 📘 [Unidad 1](Unidad%201.md)
 - 📘 [Unidad 2] *Proximamente* 
