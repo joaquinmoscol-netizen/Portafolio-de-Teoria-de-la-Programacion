@@ -12,10 +12,8 @@
 - 💻 [Instalación de lenguajes de programación (C, Python o Java)](MOSCOL_CASTILLO_JOAQUINEMILIO_AA2.pdf)
 - 🚀 [Primer ejercicio con estructuras secuenciales en pseudocódigo](MOSCOL_CASTILLO_JOAQUINEMILIO_PL1.pdf)
 - 🔄 [Del algoritmo al programa funcional](MOSCOL_CASTILLO_JOAQUINEMILIO_APE1.pdf)
-  
-- 🔹[Codigo en PSeint del ejercicio Del algoritmo al programa funcional:](PSeint)
-
-- 🔹[Codigo en C del ejercicio Del algoritmo al programa funcional:]   
+- 🔹[Codigo en PSeint del ejercicio Del algoritmo al programa funcional:]([PSeint](https://github.com/joaquinmoscol-netizen/Portafolio-de-Teoria-de-la-Programacion/blob/main/Nota%203er%20Certamen%20PSeint.psc)
+- 🔹[Codigo en C del ejercicio Del algoritmo al programa funcional:](https://github.com/joaquinmoscol-netizen/Portafolio-de-Teoria-de-la-Programacion/blob/main/Nota%203er%20Certamen%20C%2B%2B.cpp)   
 
 
 [⬅️ Volver al inicio](Inicio.md)
