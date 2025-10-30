@@ -28,9 +28,7 @@
 - 📘 [Unidad 3] *Proximamente* 
 - 🏁 Conclusiones *Proximamente* 
 - 📚 [Referencias](referencias.md) 
-- 🤖 [Declaración de uso de IA generativa](Declaracion IA.md) 
-
-
+- 🤖 [Declaración de uso de IA generativa](https://github.com/joaquinmoscol-netizen/Portafolio-de-Teoria-de-la-Programacion/blob/main/Declaracion%20IA.md)  
 
 
 [➡️ Ir a la Unidad 1](Unidad%201.md)
