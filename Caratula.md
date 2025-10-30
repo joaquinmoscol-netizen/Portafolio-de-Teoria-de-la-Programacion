@@ -1,5 +1,5 @@
 # 📘 Portafolio Digital de Aprendizaje  
-## 🧩 Teoría de la Programación – Unidad 1  
+## 🧩 Teoría de la Programación   
 
 ---
 
