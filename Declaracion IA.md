@@ -1,27 +1,3 @@
-# 💻 Teoría de la Programación
-
-## 📁 Portafolio Digital de Aprendizaje
-
-# 🧩 [Unidad 1]
-### ■ [Ver contenidos de la Unidad](Unidad%201.md)
-
-# ⚙️ Unidad 2
-
-# 🧠 Unidad 3
-
----
-
-# 🏁 Conclusiones
-
----
-
-# 📚 Referencias
-
-[Ver las referencias](referencias.md)
-  
----
-
-### Declaracion del uso de IA generativa
 ## 🤖 Declaración de uso de IA generativa
 
 Declaro que, para la elaboración de este portafolio digital, utilicé herramientas de **Inteligencia Artificial Generativa** (IA) como ChatGPT, principalmente para:
@@ -32,4 +8,4 @@ Declaro que, para la elaboración de este portafolio digital, utilicé herramien
 
 Todas las ideas, análisis, ejemplos de algoritmos y trabajos académicos fueron desarrollados por mí, siendo la IA solo un **soporte auxiliar** para la presentación y organización del contenido.
 
-# [Regresar a la portada](Caratula.md)
+# [Regresar al Portafolio](Caratula.md)
