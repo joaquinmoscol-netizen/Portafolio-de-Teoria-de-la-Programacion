@@ -15,8 +15,8 @@
   
 - 🔹[Codigo en PSeint del ejercicio Del algoritmo al programa funcional:](PSeint)
 
-- 🔹 Codigo en C del ejercicio "Del algoritmo al programa funcional": Nota 3er Certamen PSeint.psc
-(deja una línea en blanco aquí)
+- 🔹[Codigo en C del ejercicio Del algoritmo al programa funcional:](C algoritmo) 
+
 
 
 -🔹 [Codigo en C del ejercicio "Del algoritmo al programa funcional"](Nota 3er Certamen PSeint.psc) 
