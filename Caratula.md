@@ -27,8 +27,8 @@
 - 📘 [Unidad 2] *Proximamente* 
 - 📘 [Unidad 3] *Proximamente* 
 - 🏁 Conclusiones *Proximamente* 
-- 📚 Referencias
-- 🤖 Declaración de uso de IA generativa
+- 📚 [Referencias](referencias.md) 
+- 🤖 [Declaración de uso de IA generativa](Declaracion IA.md) 
 
 
 
