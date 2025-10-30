@@ -8,7 +8,7 @@
 **Carrera:** Computación  
 **Asignatura:** Teoría de la Programación  
 **Ciclo:** Primer ciclo  
-**Período Académico:** Octubre 2025 – Febrero 2026  
+**Período Académico:** 2025 – 2026  
 
 ---
 
@@ -24,12 +24,13 @@
 
 - 🏠 [Inicio](Inicio.md)
 - 📘 [Unidad 1](Unidad%201.md)
-- 📘 [Unidad 2]
-- 📘 [Unidad 3]
+- 📘 [Unidad 2] *Proximamente* 
+- 📘 [Unidad 3] *Proximamente* 
+- 🏁 Conclusiones *Proximamente* 
+- 📚 Referencias
+- 🤖 Declaración de uso de IA generativa
 
----
 
-> 🤖 **Declaración de uso de IA generativa:**  
-> Este portafolio fue elaborado con el apoyo de ChatGPT como herramienta de guía para la redacción, diseño y estructuración del contenido, respetando la autoría del estudiante.
+
 
 [➡️ Ir a la Unidad 1](Unidad%201.md)
