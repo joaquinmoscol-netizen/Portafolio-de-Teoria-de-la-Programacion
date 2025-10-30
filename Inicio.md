@@ -17,8 +17,8 @@ El objetivo de este portafolio es reflejar el proceso de aprendizaje adquirido, 
 - 📘 [Unidad 2] *Proximamente* 
 - 📘 [Unidad 3] *Proximamente* 
 - 🏁 Conclusiones *Proximamente* 
-📚 [Referencias](referencias.md) 
-## 🤖 Declaración de uso de IA generativa
+### 📚 [Referencias](referencias.md) 
+### 🤖 Declaración de uso de IA generativa
 
 Declaro que, para la elaboración de este portafolio digital, utilicé herramientas de **Inteligencia Artificial Generativa** (IA) como ChatGPT, principalmente para:
 
