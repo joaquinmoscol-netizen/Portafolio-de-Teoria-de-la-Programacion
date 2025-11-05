@@ -1,7 +1,7 @@
 # 🏠 Introducción 
 
-Bienvenido a mi **Portafolio Digital de Aprendizaje** correspondiente a la asignatura **Teoría de la Programación**.  
-En este espacio recopilo las actividades, evidencias y reflexiones desarrolladas durante la **Unidad 1**, centrada en los **algoritmos y las estructuras secuenciales**.
+Bienvenido a mi Portafolio Digital de Aprendizaje correspondiente a la asignatura Teoría de la Programación.  
+En este espacio recopilo las actividades, evidencias y reflexiones desarrolladas durante la Unidad 1, centrada en los algoritmos y las estructuras secuenciales.
 
 ---
 
@@ -18,7 +18,7 @@ El objetivo de este portafolio es reflejar el proceso de aprendizaje adquirido, 
 ### 📚 [Referencias](referencias.md) 
 ### 🤖 Declaración de uso de IA generativa
 
-Declaro que, para la elaboración de este portafolio digital, utilicé herramientas de **Inteligencia Artificial Generativa** (IA) como ChatGPT, principalmente para:
+Declaro que, para la elaboración de este portafolio digital, utilicé herramientas de Inteligencia Artificial Generativa(IA) como ChatGPT, principalmente para:
 
 - Generar títulos y encabezados de las secciones.
 - Mejorar la redacción de descripciones y explicaciones.
