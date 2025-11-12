@@ -16,9 +16,9 @@
 - 🔹[Codigo en C del ejercicio Del algoritmo al programa funcional:](https://github.com/joaquinmoscol-netizen/Portafolio-de-Teoria-de-la-Programacion/blob/main/Nota%203er%20Certamen%20C%2B%2B.cpp)
 
 ### ■ Seguimiento Estudiantil - Ejercicios Realizados
-- 🛠️ [Calculo de la Distancia entre dos Puntos]
+- 🟦 [Calculo de la Distancia entre dos Puntos]
 - 💻 [Calculo de la Masa Correspondiente al Aire]
-- 🚀 [8 Amigos desean ir de Viaje a la Ciudada de Baños]
+- 💡 [8 Amigos desean ir de Viaje a la Ciudada de Baños]
 
 
 [⬅️ Volver al inicio](Inicio.md)
