@@ -42,4 +42,46 @@ Algoritmo CalcularMasaAire
 	Escribir "La masa de aire es: ", masa
 FinAlgoritmo
 
+# 📤Salida mostrada en Pseint
+< />
 
+# 🧮Diagrama de Flujo
+
+</>
+
+
+**🖥️ Código en C**  
+#include <stdio.h>
+
+int main() {
+	
+	int presion, volumen, temperatura;
+	float masa;
+
+	// Datos de entrada
+	printf("Ingrese la presión (entero): ");
+	scanf("%d", &presion);
+	printf("Ingrese el volumen (entero): ");
+	scanf("%d", &volumen);
+	printf("Ingrese la temperatura (entero): ");
+	scanf("%d", &temperatura);
+
+	getchar();
+
+	// Proceso
+	masa = (float)(presion * volumen) / (0.37 * (temperatura + 460));
+
+	// Salida
+	printf("La masa de aire es: %.3f\n", masa);
+
+	getchar();
+	
+    return 0;
+}
+
+ # 💻 Ejecucion en C
+ </>
+  
+
+## 💡 Breve explicación
+Este código toma cuatro notas ingresadas por el usuario, calcula su promedio y muestra el resultado en pantalla. 🎯
