@@ -21,8 +21,6 @@ planteamiento, ya que la **masa** es el resultado a calcular.
 | 100 | 50 | 40 | (100 * 50) / (0.37 * (40 + 460)) | 27.027... |
 | 200 | 25 | 0 | (200 * 25) / (0.37 * (0 + 460)) | 29.382... |
 
-
-
 **📝 Pseudocódigo (PSeInt)**
 ```pseint
 Algoritmo CalcularMasaAire
@@ -43,3 +41,5 @@ Algoritmo CalcularMasaAire
 	// 📤 Salida
 	Escribir "La masa de aire es: ", masa
 FinAlgoritmo
+
+
