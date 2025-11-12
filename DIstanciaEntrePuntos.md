@@ -96,7 +96,7 @@ FinAlgoritmo
 		printf("El total a pagar en comisiones es: $%.2f\n", 	total_comisiones);
 	
 	return 0;
-}
+	}
 
 # 🔢 Ejecucion en C
 <img width="549" height="186" alt="image" src="https://github.com/user-attachments/assets/a807d38c-5bc2-4cf8-9391-3ba1fe25a104" />
