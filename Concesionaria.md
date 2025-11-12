@@ -54,7 +54,7 @@ FinAlgoritmo
 ## Prueba de escritorio
 | venta1 | venta2 | venta3 | comision1 | comision2 | comision3 | total comisiones |
 |---|---|---|---|---|---|---|
-| 30000 | 29000 | 33000 | 1200 | 1160 | 1320 | 3680 |
+| 30000 | 29000 | 33000 | 30000 * 0.04 = 1200 |  29000 * 0.04 = 1160 | 33000 * 0.04 = 1320 | 1200 + 1160 +1320 = 3680 |
 
 # 📤Salida mostrada en Pseint
 
