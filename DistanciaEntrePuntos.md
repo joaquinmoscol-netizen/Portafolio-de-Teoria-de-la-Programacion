@@ -91,4 +91,4 @@ FinAlgoritmo
 
 
 ## 💡 Breve explicación
-Este código toma cuatro notas ingresadas por el usuario, calcula su promedio y muestra el resultado en pantalla. 🎯
+Este código toma tres datos ingresadas por el usuario como es la presion, la temperatura y el volumen, calcula la masa del aire y muestra el resultado en pantalla. 🎯
