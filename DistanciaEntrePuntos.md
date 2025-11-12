@@ -41,46 +41,54 @@ Algoritmo CalcularMasaAire
 	// 📤 Salida
 	Escribir "La masa de aire es: ", masa
 FinAlgoritmo
+```
 
 # 📤Salida mostrada en Pseint
 <img width="345" height="337" alt="image" src="https://github.com/user-attachments/assets/3d26284b-36e6-47ec-93c2-9cb820249a71" />
 
 # 🧮Diagrama de Flujo
 
-<<img width="300" alt="Diagrama de Flujo Masa de Aire" src="" />/>
+<img width="300" alt="Diagrama de Flujo Masa de Aire" src="https://github.com/user-attachments/assets/d4d2ee3c-b603-45aa-a14b-48d5b7e9ce25" />
+
 
 
 **🖥️ Código en C**  
-#include <stdio.h>
-
-int main() {
 	
-	int presion, volumen, temperatura;
-	float masa;
-
-	// Datos de entrada
-	printf("Ingrese la presión (entero): ");
-	scanf("%d", &presion);
-	printf("Ingrese el volumen (entero): ");
-	scanf("%d", &volumen);
-	printf("Ingrese la temperatura (entero): ");
-	scanf("%d", &temperatura);
-
-	getchar();
-
-	// Proceso
-	masa = (float)(presion * volumen) / (0.37 * (temperatura + 460));
-
-	// Salida
-	printf("La masa de aire es: %.3f\n", masa);
-
-	getchar();
+	#include <stdio.h>
 	
-    return 0;
-}
+	int main() {
+		int presion, volumen, temperatura;
+		float masa;
+		
+		// Datos de entrada
+		printf("Ingrese la presión (entero): ");
+		scanf("%d", &presion);
+	
+		printf("Ingrese el volumen (entero): ");
+		scanf("%d", &volumen);
+		
+		printf("Ingrese la temperatura (entero): ");
+		scanf("%d", &temperatura);
+		
+		getchar();
+		
+		// Proceso
+		
+		masa = (float)(presion * volumen) / (0.37 * (temperatura + 460));
+		
+		// Salida
+		
+		printf("La masa de aire es: %.3f\n", masa);
+		
+		getchar();
+		
+		return 0;
+	}
+
 
  # 💻 Ejecucion en C
- </>
+ <img width="467" height="119" alt="image" src="https://github.com/user-attachments/assets/29a15c82-f1cd-473c-b0fe-bd43613dc866" />
+
   
 
 ## 💡 Breve explicación
