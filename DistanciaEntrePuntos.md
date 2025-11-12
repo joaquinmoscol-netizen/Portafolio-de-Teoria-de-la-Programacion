@@ -27,7 +27,7 @@ Algoritmo CalcularMasaAire
 	Definir presion, volumen, temperatura Como Entero
 	Definir masa Como Real
 	
-	// 📥 Datos de entrada
+	// Datos de entrada
 	Escribir "Ingrese la presión (entero):"
 	Leer presion
 	Escribir "Ingrese el volumen (entero):"
@@ -35,10 +35,10 @@ Algoritmo CalcularMasaAire
 	Escribir "Ingrese la temperatura (entero):"
 	Leer temperatura
 	
-	// ⚙️ Proceso
+	// Proceso
 	masa <- (presion * volumen) / (0.37 * (temperatura + 460))
 	
-	// 📤 Salida
+	// Salida
 	Escribir "La masa de aire es: ", masa
 FinAlgoritmo
 ```
@@ -86,10 +86,9 @@ FinAlgoritmo
 	}
 
 
- # 💻 Ejecucion en C
+ # 🔢 Ejecucion en C
  <img width="467" height="119" alt="image" src="https://github.com/user-attachments/assets/29a15c82-f1cd-473c-b0fe-bd43613dc866" />
 
-  
 
 ## 💡 Breve explicación
 Este código toma cuatro notas ingresadas por el usuario, calcula su promedio y muestra el resultado en pantalla. 🎯
