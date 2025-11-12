@@ -1,6 +1,6 @@
 ## 🧮 Calcular la masa de aire
 
-*Ejercicio: Escriba un programa que permita calcular la masa de aire con la siguiente fórmula: masa = (presión * volumen) / (0.37 * (temperatura + 460)). El ingreso de la masa, presión y volumen son cantidades enteras ingresadas por el usuario.
+**Primer Ejercicio**  Escriba un programa que permita calcular la masa de aire con la siguiente fórmula: masa = (presión * volumen) / (0.37 * (temperatura + 460)). El ingreso de la masa, presión y volumen son cantidades enteras ingresadas por el usuario.
 
 ### ⚠️ Análisis del problema
 * 🎯 El problema indica que "El ingreso de la masa, presión y volumen son cantidades enteras". Esto parece un error en el
