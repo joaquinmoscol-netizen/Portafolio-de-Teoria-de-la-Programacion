@@ -51,3 +51,57 @@ Algoritmo CalcularComisiones
 	Escribir "El total a pagar en comisiones es: $", total_comisiones
 FinAlgoritmo
 ```
+## Prueba de escritorio
+| venta1 | venta2 | venta3 | comision1 | comision2 | comision3 | total comisiones |
+|---|---|---|---|---|---|---|
+| 30000 | 29000 | 33000 | 1200 | 1160 | 1320 | 3680 |
+
+# 📤Salida mostrada en Pseint
+
+<img width="521" height="396" alt="image" src="https://github.com/user-attachments/assets/f54ce924-cdbc-477d-9949-d5740c53457c" />
+
+# 🧮Diagrama de Flujo
+
+<img width="429" height="1029" alt="image" src="https://github.com/user-attachments/assets/b59a9c9b-17d4-4ed9-9d44-ba46e5561c5a" />
+
+**🖥️ Código en C**  
+
+	#include <stdio.h>
+
+	int main() {
+
+		float venta1, venta2, venta3;
+		float comision1, comision2, comision3, total_comisiones;
+	
+		// Datos de entrada
+		printf("Ingrese el monto de la venta 1: ");
+		scanf("%f", &venta1);
+		
+		printf("Ingrese el monto de la venta 2: ");
+		scanf("%f", &venta2);
+		
+		printf("Ingrese el monto de la venta 3: ");
+		scanf("%f", &venta3);
+		
+		// Proceso
+		comision1 = venta1 * 0.04;
+		comision2 = venta2 * 0.04;
+		comision3 = venta3 * 0.04;
+		total_comisiones = comision1 + comision2 + comision3;
+		
+		// Salida
+		printf("La comisión de la venta 1 es: $%.2f\n", comision1);
+		printf("La comisión de la venta 2 es: $%.2f\n", comision2);
+		printf("La comisión de la venta 3 es: $%.2f\n", comision3);
+		printf("El total a pagar en comisiones es: $%.2f\n", 	total_comisiones);
+	
+	return 0;
+}
+
+# 🔢 Ejecucion en C
+<img width="549" height="186" alt="image" src="https://github.com/user-attachments/assets/a807d38c-5bc2-4cf8-9391-3ba1fe25a104" />
+
+## 💡 Breve explicación
+Este código toma los montos de tres ventas, calcula la comisión del 4% para cada una, y finalmente muestra cada comisión individual y el total pagado. 💵🚗
+
+
