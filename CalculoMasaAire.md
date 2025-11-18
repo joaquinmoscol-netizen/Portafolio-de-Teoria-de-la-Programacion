@@ -1,8 +1,8 @@
-## 🧮 Calcular la masa de aire
+# 🧮 Calcular la masa de aire
 
 **Primer Ejercicio:** Escriba un programa que permita calcular la masa de aire con la siguiente fórmula: masa = (presión * volumen) / (0.37 * (temperatura + 460)). El ingreso de la masa, presión y volumen son cantidades enteras ingresadas por el usuario.
 
-### ⚠️ Análisis del problema
+## ⚠️ Análisis del problema
 * 🎯 El problema indica que "El ingreso de la masa, presión y volumen son cantidades enteras". Esto parece un error en el
 planteamiento, ya que la **masa** es el resultado a calcular. 
 
@@ -17,7 +17,8 @@ planteamiento, ya que la **masa** es el resultado a calcular.
 **📤 Salida**
 * 🎯 El valor de la `masa` de aire (un valor real/decimal).
 
-**📝 Pseudocódigo (PSeInt)**
+## **📝 Pseudocódigo (PSeInt)**
+
 ```pseint
 Algoritmo CalcularMasaAire
 	Definir presion, volumen, temperatura Como Entero
@@ -38,20 +39,21 @@ Algoritmo CalcularMasaAire
 	Escribir "La masa de aire es: ", masa
 FinAlgoritmo
 ```
-## Prueba de escritorio
+**Prueba de escritorio**
 | presion | volumen | temperatura | Operación | Masa |
 |---|---|---|---|---|
 | 100 | 50 | 40 | (100 * 50) / (0.37 * (40 + 460)) | 27.027... |
 
-# 📤Salida mostrada en Pseint
-<img width="345" height="337" alt="image" src="https://github.com/user-attachments/assets/4ef75e75-b9e9-4fbd-9e40-3fbe164402a5" />
+**📤Salida mostrada en Pseint**
 
-# 🧮Diagrama de Flujo
+<img width="500" height="396" alt="image" src="https://github.com/user-attachments/assets/4ef75e75-b9e9-4fbd-9e40-3fbe164402a5" />
+
+**🧮Diagrama de Flujo**
 
 <img width="300" alt="Diagrama de Flujo Masa de Aire" src="https://github.com/user-attachments/assets/d4d2ee3c-b603-45aa-a14b-48d5b7e9ce25" />
 
 
-**🖥️ Código en C**  
+## 🖥️ Código en C  
 	
 	#include <stdio.h>
 	
@@ -85,8 +87,9 @@ FinAlgoritmo
 	}
 
 
- # 🔢 Ejecucion en C
- <img width="467" height="119" alt="image" src="https://github.com/user-attachments/assets/29a15c82-f1cd-473c-b0fe-bd43613dc866" />
+**🔢 Ejecucion en C**
+
+<img width="467" height="119" alt="image" src="https://github.com/user-attachments/assets/29a15c82-f1cd-473c-b0fe-bd43613dc866" />
 
 
 ## 💡 Breve explicación
