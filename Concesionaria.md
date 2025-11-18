@@ -1,8 +1,8 @@
-## 🚗 Calcular comisiones de concesionaria
+# 🚗 Calcular comisiones de concesionaria
 
 **Segundo Ejercicio:** En una concesionaria de vehículos se realizaron tres ventas de vehículos de alta gama a 3 clientes. Cada vehículo cuesta 30000, 29000 y 33000 usd. El gerente desea saber cuál es porcentaje (comisión) que cada vendedor se llevaría, lo que le pagará a cada uno de ellos (considerando el 4% por cada vendedor) y lo que le pagarán en conjunto (total).
 
-### ⚠️ Análisis del problema
+## ⚠️ Análisis del problema
 * 🎯 El problema indica "cada vendedor", por lo que asumiremos que fue un vendedor distinto para cada una de las 3 ventas.
 * 🎯 El porcentaje de comisión es un valor constante (4% o 0.04).
 * 🎯 Aunque el problema da valores fijos (30000, 29000, 33000), un programa más útil pedirá al usuario que ingrese los 3 montos de las ventas.
@@ -24,7 +24,8 @@
 * 🎯 El valor de la `comision3` (real).
 * 🎯 El valor del `total_comisiones` (real).
 
-**📝 Pseudocódigo (PSeInt)**
+## **📝 Pseudocódigo (PSeInt)**
+
 ```pseint
 Algoritmo CalcularComisiones
 	Definir venta1, venta2, venta3 Como Real
@@ -51,20 +52,20 @@ Algoritmo CalcularComisiones
 	Escribir "El total a pagar en comisiones es: $", total_comisiones
 FinAlgoritmo
 ```
-## Prueba de escritorio
+**Prueba de escritorio**
 | venta1 | venta2 | venta3 | comision1 | comision2 | comision3 | total comisiones |
 |---|---|---|---|---|---|---|
 | 30000 | 29000 | 33000 | 30000 * 0.04 = 1200 |  29000 * 0.04 = 1160 | 33000 * 0.04 = 1320 | 1200 + 1160 +1320 = 3680 |
 
-# 📤Salida mostrada en Pseint
+**📤Salida mostrada en Pseint**
 
 <img width="521" height="396" alt="image" src="https://github.com/user-attachments/assets/f54ce924-cdbc-477d-9949-d5740c53457c" />
 
-# 🧮Diagrama de Flujo
+**🧮Diagrama de Flujo**
 
 <img width="429" height="1029" alt="image" src="https://github.com/user-attachments/assets/b59a9c9b-17d4-4ed9-9d44-ba46e5561c5a" />
 
-**🖥️ Código en C**  
+## **🖥️ Código en C**  
 
 	#include <stdio.h>
 
@@ -98,7 +99,7 @@ FinAlgoritmo
 	return 0;
 	}
 
-# 🔢 Ejecucion en C
+**🔢 Ejecucion en C**
 <img width="549" height="186" alt="image" src="https://github.com/user-attachments/assets/a807d38c-5bc2-4cf8-9391-3ba1fe25a104" />
 
 ## 💡 Breve explicación
