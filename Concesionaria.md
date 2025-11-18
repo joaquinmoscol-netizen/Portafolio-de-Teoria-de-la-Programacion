@@ -59,11 +59,11 @@ FinAlgoritmo
 
 **📤Salida mostrada en Pseint**
 
-<img width="521" height="396" alt="image" src="https://github.com/user-attachments/assets/f54ce924-cdbc-477d-9949-d5740c53457c" />
+<img width="500" height="396" alt="image" src="https://github.com/user-attachments/assets/f54ce924-cdbc-477d-9949-d5740c53457c" />
 
 **🧮Diagrama de Flujo**
 
-<img width="429" height="1029" alt="image" src="https://github.com/user-attachments/assets/b59a9c9b-17d4-4ed9-9d44-ba46e5561c5a" />
+<img width="300" height="1029" alt="image" src="https://github.com/user-attachments/assets/b59a9c9b-17d4-4ed9-9d44-ba46e5561c5a" />
 
 ## **🖥️ Código en C**  
 
@@ -100,7 +100,8 @@ FinAlgoritmo
 	}
 
 **🔢 Ejecucion en C**
-<img width="549" height="186" alt="image" src="https://github.com/user-attachments/assets/a807d38c-5bc2-4cf8-9391-3ba1fe25a104" />
+
+<img width="467" height="119" alt="image" src="https://github.com/user-attachments/assets/a807d38c-5bc2-4cf8-9391-3ba1fe25a104" />
 
 ## 💡 Breve explicación
 Este código toma los montos de tres ventas, calcula la comisión del 4% para cada una, y finalmente muestra cada comisión individual y el total pagado. 💵🚗
