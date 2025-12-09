@@ -18,8 +18,8 @@
 ## 📚 Tareas Entregadas
 
 - [📘 APE 1. Aplicación de estructuras condicionales en la resolución de problemas](Teoría de la programación -Formato Reporte técnico APE1 Unidad 2.pdf) 
-- [📘 APE 2. Aplicación de estructuras repetitivas en la resolución de problemas](https://drive.google.com/file/d/1a-CqzpMV8jpCqDoGQiegSCCbru2DL1Cu/view?usp=sharing)
-- [📘 AA 1. Diferencias entre los tipos de estructuras condicionales](https://drive.google.com/file/d/1Nmj1E667jkYNu5QOocRwV-Lt41v9F2nF/view?usp=sharing)
+- [📘 APE 2. Aplicación de estructuras repetitivas en la resolución de problemas](Teoría de la programación -Formato Reporte técnico APE2 Unidad2.pdf) 
+- [📘 AA 1. Diferencias entre los tipos de estructuras condicionales](AA2 JOAQUIN MOSCOL PROGRAMACION.pdf)
 - [📘 AA 2. Cuadro comparativo entre las estructuras repetitivas](AA2 JOAQUIN MOSCOL PROGRAMACION.pdf)
 
 ---
