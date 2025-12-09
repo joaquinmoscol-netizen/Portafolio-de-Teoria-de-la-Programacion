@@ -1,12 +1,12 @@
 # 🛠️ ¿Qué es Java?
 
-Java es un **lenguaje de programación de alto nivel, orientado a objetos y multiplataforma**.  
-Su principio es **“Write Once, Run Anywhere”**, lo que significa que un programa Java puede ejecutarse en cualquier sistema operativo que tenga instalada la **JVM (Java Virtual Machine)**.
+Java se define como un lenguaje de programación **orientado a objetos, de alto nivel y multiplataforma**. Su gran popularidad se debe a su filosofía **"Write Once, Run Anywhere"** (Escríbelo una vez, ejecútalo donde sea).
 
-Java incluye:  
-- 🧠 Lenguaje de programación  
-- ⚙️ Máquina Virtual de Java (JVM)  
-- 📚 Librerías estándar (API)
+Esto es posible gracias a su arquitectura interna, compuesta por tres pilares:
+1. 🧠 **El Lenguaje:** La sintaxis que escribimos.
+2. ⚙️ **La JVM (Máquina Virtual de Java):** El motor que permite ejecutar el programa en Windows, Linux o Mac sin necesidad de modificar el código.
+3. 📚 **La API:** Un conjunto robusto de librerías estándar listas para usar.
+
 
 Se usa ampliamente en:  
 - 🏢 Aplicaciones empresariales  
