@@ -1,4 +1,4 @@
-# ☕ ¿Qué es Java?
+# 🛠️ ¿Qué es Java?
 
 Java es un **lenguaje de programación de alto nivel, orientado a objetos y multiplataforma**.  
 Su principio es **“Write Once, Run Anywhere”**, lo que significa que un programa Java puede ejecutarse en cualquier sistema operativo que tenga instalada la **JVM (Java Virtual Machine)**.
@@ -12,9 +12,6 @@ Se usa ampliamente en:
 - 🏢 Aplicaciones empresariales  
 - 📱 Android  
 - 🌐 Aplicaciones web  
-- 📊 Big Data  
-- 💻 Aplicaciones de escritorio  
-- 🔄 Sistemas distribuidos  
 
 
 ---
@@ -62,8 +59,6 @@ Gracias a la JVM, el mismo programa funciona en Windows, Linux o macOS.
 
 
 
-
-
 # 📌 Ejercicio: Suma de 5 números positivos con validación
 
 Solicitar al usuario que ingrese **5 números positivos**.  
@@ -107,7 +102,7 @@ Al final, mostrar la suma total y el promedio de los números ingresados.
 
 ### 🧩 Diagrama de flujo
 
-<img width="944" height="917" alt="image" src="https://github.com/user-attachments/assets/2a5602c8-7e98-408d-b089-76c5872e9105" />
+<img width="300" height="1029" alt="image" src="https://github.com/user-attachments/assets/2a5602c8-7e98-408d-b089-76c5872e9105" />
 
 
 ---
@@ -146,7 +141,7 @@ public class ejercicioporta {
 ```
 ## Evidencia
 
-<img width="374" height="152" alt="image" src="https://github.com/user-attachments/assets/bd30d9cb-2b54-4481-821f-38f322b92ce7" />
+<img width="500" height="396" alt="image" src="https://github.com/user-attachments/assets/bd30d9cb-2b54-4481-821f-38f322b92ce7" />
 
 ---
 [Volver a la unidad 2](Unidad2.md)
