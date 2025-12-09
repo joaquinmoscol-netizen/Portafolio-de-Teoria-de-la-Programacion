@@ -35,7 +35,7 @@ Se necesita elaborar un procedimiento que permita ingresar un número y mostrar 
 
 ## 🧩 Diagrama de flujo
 
-<img width="852" height="737" alt="image" src="https://github.com/user-attachments/assets/dcc03561-8534-4495-bd83-74667dc61851" />
+<img width="300" height="1029" alt="image" src="https://github.com/user-attachments/assets/dcc03561-8534-4495-bd83-74667dc61851" />
 
 
 
@@ -58,7 +58,7 @@ int main() {
 ```
 ## Evindencia
 
-<img width="220" height="48" alt="image" src="https://github.com/user-attachments/assets/dfa98ae2-e9aa-4722-aca3-ca4dfb11a83b" />
+<img width="500" height="396" alt="image" src="https://github.com/user-attachments/assets/dfa98ae2-e9aa-4722-aca3-ca4dfb11a83b" />
 
 
 ---
@@ -94,7 +94,7 @@ Se necesita elaborar un procedimiento que permita ingresar la edad de una person
 | 11             | Falso                  | "Eres menor de edad"    |
 
 ## 🧩 Diagrama de flujo
-<img width="1153" height="799" alt="image" src="https://github.com/user-attachments/assets/681b010a-d2a5-4c18-9a83-b01962b53003" />
+<img width="300" height="1029" alt="image" src="https://github.com/user-attachments/assets/681b010a-d2a5-4c18-9a83-b01962b53003" />
 
 ## 💻 Ejercicio en C
 
@@ -117,10 +117,10 @@ int main() {
 ```
 ## Evidencia
 ### Verdadero
-<img width="194" height="46" alt="image" src="https://github.com/user-attachments/assets/1699c4d5-318c-464e-ab51-f40cd5c96fc4" />
+<img width="500" height="396" alt="image" src="https://github.com/user-attachments/assets/1699c4d5-318c-464e-ab51-f40cd5c96fc4" />
 
 ### Falso
-<img width="190" height="45" alt="image" src="https://github.com/user-attachments/assets/68adf123-07ad-4754-a68d-66fe56752eea" />
+<img width="500" height="396" alt="image" src="https://github.com/user-attachments/assets/68adf123-07ad-4754-a68d-66fe56752eea" />
 
 
 ---
@@ -162,7 +162,7 @@ Se necesita elaborar un procedimiento que permita ingresar la nota de un estudia
 | 60             | nota ≥ 90 → Falso, nota ≥ 70 → Falso  | Falso                      | "Reprobado"      |
 
 ## 🧩 Diagrama de flujo
-<img width="1128" height="913" alt="image" src="https://github.com/user-attachments/assets/0fa6c221-27c0-40b0-9657-955898af0bc2" />
+<img width="300" height="1029" alt="image" src="https://github.com/user-attachments/assets/0fa6c221-27c0-40b0-9657-955898af0bc2" />
 
 ## 💻 Ejercicio en C
 ```c
@@ -189,13 +189,13 @@ int main() {
 ## Evidencia 
 
 ### Caso 1
-<img width="210" height="45" alt="image" src="https://github.com/user-attachments/assets/047515c4-8635-4a96-a49f-941329c78754" />
+<img width="500" height="396" alt="image" src="https://github.com/user-attachments/assets/047515c4-8635-4a96-a49f-941329c78754" />
 
 ### Caso 2
-<img width="202" height="46" alt="image" src="https://github.com/user-attachments/assets/cc503026-aa93-482a-b410-5fe3a7f97c0c" />
+<img width="500" height="396" alt="image" src="https://github.com/user-attachments/assets/cc503026-aa93-482a-b410-5fe3a7f97c0c" />
 
 ### Caso 3
-<img width="202" height="48" alt="image" src="https://github.com/user-attachments/assets/88924f90-52ec-4122-b297-6d0d04018b5b" />
+<img width="500" height="396" alt="image" src="https://github.com/user-attachments/assets/88924f90-52ec-4122-b297-6d0d04018b5b" />
 
 
 ## 🔹 4. Switch – Condicional Múltiple
@@ -240,7 +240,7 @@ Se necesita elaborar un procedimiento que permita ingresar dos números y elegir
 | 5        | 2        | 9      | Default             | "Opción no válida"            |
 
 ## 🧩 Diagrama de flujo
-<img width="1407" height="926" alt="image" src="https://github.com/user-attachments/assets/61b410b4-2796-468a-aeb0-8be75e243772" />
+<img width="300" height="1029" alt="image" src="https://github.com/user-attachments/assets/61b410b4-2796-468a-aeb0-8be75e243772" />
 
 ## 💻 Ejercicio en C
 
@@ -280,16 +280,16 @@ int main() {
 ```
 ## Evidencia
 # Caso 1
-<img width="262" height="158" alt="image" src="https://github.com/user-attachments/assets/e40d46a9-cb97-40e6-9680-f43beaba9e9d" />
+<img width="500" height="396" alt="image" src="https://github.com/user-attachments/assets/e40d46a9-cb97-40e6-9680-f43beaba9e9d" />
 
 # Caso 2
-<img width="275" height="156" alt="image" src="https://github.com/user-attachments/assets/b6903d55-25da-4642-af4c-b7fc7abf2e2a" />
+<img width="500" height="396" alt="image" src="https://github.com/user-attachments/assets/b6903d55-25da-4642-af4c-b7fc7abf2e2a" />
 
 # Caso 3
-<img width="289" height="157" alt="image" src="https://github.com/user-attachments/assets/915c9828-5720-46c5-a1f5-0a2a26bc12c9" />
+<img width="500" height="396" alt="image" src="https://github.com/user-attachments/assets/915c9828-5720-46c5-a1f5-0a2a26bc12c9" />
 
 # Caso Falso
-<img width="295" height="131" alt="image" src="https://github.com/user-attachments/assets/c0aa936c-191d-4fd9-a9fb-d458f94b7c10" />
+<img width="500" height="396" alt="image" src="https://github.com/user-attachments/assets/c0aa936c-191d-4fd9-a9fb-d458f94b7c10" />
 
 ---
 
