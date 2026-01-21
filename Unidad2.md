@@ -23,5 +23,7 @@
 - [💻 AA 2. Cuadro comparativo entre las estructuras repetitivas](JOAQUIN_MOSCOL_AA2_UNIDAD2.pdf)
 
 ---
+### ■ Seguimiento Estudiantil - Ejercicios Realizados
+- 💻 [Programa que determine si un número entero positivo n es o no perfecto](CalculoMasaAire.md)
 
 ## 🔙 [Volver al inicio](Inicio.md) 
