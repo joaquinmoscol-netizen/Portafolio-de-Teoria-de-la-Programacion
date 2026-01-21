@@ -24,6 +24,6 @@
 
 ---
 ### ■ Seguimiento Estudiantil - Ejercicios Realizados
-- 💻 [Programa que determine si un número entero positivo n es o no perfecto](CalculoMasaAire.md)
+- 💻 [Programa que determine si un número entero positivo n es o no perfecto](Positivo.md)
 
 ## 🔙 [Volver al inicio](Inicio.md) 
