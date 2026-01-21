@@ -1,7 +1,7 @@
 
-## 🧩 Ejercicico en Java 
+# 🧩 Ejercicico en Java 
 
-**🧮 Calculadora básica en Java**  
+## 🧮 Calculadora básica en Java 
 Esta es una calculadora básica en Java capaz de ejecutar las cuatro operaciones fundamentales: suma, resta, multiplicación y división. 
 El programa utiliza estructuras de control anidadas para gestionar tanto la selección de la operación como la validación de los datos ingresados por el usuario. Además, incorpora un sistema de verificación que evita errores comunes, como intentar dividir entre cero, solicitando nuevamente los valores cuando sea necesario. 
 El propósito de esta calculadora es demostrar el uso práctico de bucles, condicionales y manejo de entradas en Java, permitiendo al usuario realizar varias operaciones dentro del mismo flujo del programa de manera segura y controlada.
