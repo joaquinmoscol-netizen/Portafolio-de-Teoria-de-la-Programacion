@@ -31,7 +31,9 @@ El ejercicio consiste en solicitar al usuario un número entero comprendido entr
 <img width="845" height="776" alt="image" src="https://github.com/user-attachments/assets/405eece3-6de5-42c9-998b-aae924db610a" />
 
 
+[Volver a la unidad 2](Unidad2.md)
 
+[Volver al inicio](Inicio.md)
 
 
 
