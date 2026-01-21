@@ -12,18 +12,17 @@ El propósito de esta calculadora es demostrar el uso práctico de bucles, condi
 
 ### 📌 Codigo en Java 
 
-<img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/f3c0e141-c027-4b12-b620-afad8f082658" />
+<img width="1043" height="923" alt="image" src="https://github.com/user-attachments/assets/a7c5d55a-a35a-487a-8f97-b68169231634" />
 
+<img width="1417" height="839" alt="image" src="https://github.com/user-attachments/assets/8b285694-169d-4da4-a482-d94763c13ef2" />
 
-<img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/9731dc1e-1a72-4305-8f71-a84e0f41d43f" />
-
-
-<img width="450" height="333" alt="image" src="https://github.com/user-attachments/assets/68db6955-24aa-46ac-b1b4-b0cef6532f22" />
+<img width="750" height="550" alt="image" src="https://github.com/user-attachments/assets/68db6955-24aa-46ac-b1b4-b0cef6532f22" />
 
 
 ### ⚠️ Verificación 
 
-   <img width="539" height="450" alt="image" src="https://github.com/user-attachments/assets/1865aeac-769a-460c-b36a-3c79a6d5d80f" />
+<img width="634" height="690" alt="image" src="https://github.com/user-attachments/assets/7a102a1f-1768-4fa1-acbf-08f188f6020d" />
 
+[Volver a la unidad 2](Unidad2.md)
 
-[Portafolio](portafolio.md)
+[Volver al inicio](Inicio.md)
