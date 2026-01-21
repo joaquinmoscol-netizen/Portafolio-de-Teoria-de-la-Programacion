@@ -1,20 +1,20 @@
-# 🛠️ ¿Qué es Java?
+# 🌐 ¿Qué es Java?
 
 Java se define como un lenguaje de programación **orientado a objetos, de alto nivel y multiplataforma**. Su gran popularidad se debe a su filosofía **"Write Once, Run Anywhere"** (Escríbelo una vez, ejecútalo donde sea).
 
 Esto es posible gracias a su arquitectura interna, compuesta por tres pilares:
-1. 🧠 **El Lenguaje:** La sintaxis que escribimos.
-2. ⚙️ **La JVM (Máquina Virtual de Java):** El motor que permite ejecutar el programa en Windows, Linux o Mac sin necesidad de modificar el código.
-3. 📚 **La API:** Un conjunto robusto de librerías estándar listas para usar.
+1. **El Lenguaje:** La sintaxis que escribimos.
+2. **La JVM (Máquina Virtual de Java):** El motor que permite ejecutar el programa en Windows, Linux o Mac sin necesidad de modificar el código.
+3. **La API:** Un conjunto robusto de librerías estándar listas para usar.
 
 Se usa ampliamente en:  
-- 🏢 Aplicaciones empresariales  
-- 📱 Android  
-- 🌐 Aplicaciones web  
+- Aplicaciones empresariales  
+- Android  
+- Aplicaciones web  
 
 ---
 
-# 🛠️ ¿Cómo compilar y ejecutar un programa Java?
+# ¿Cómo compilar y ejecutar un programa Java?
 
 Para trabajar con Java necesitas instalar el **JDK (Java Development Kit)**.
 
@@ -45,9 +45,9 @@ HolaMundo.class
 
 java HolaMundo
 
-🔎 No incluyas la extensión .class al ejecutar.
+No incluyas la extensión .class al ejecutar.
 
-# 🧬 ¿Qué sucede internamente?
+# ¿Qué sucede internamente?
 
 javac convierte el archivo .java en bytecode .class.
 
