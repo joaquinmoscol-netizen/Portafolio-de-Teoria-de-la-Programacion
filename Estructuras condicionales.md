@@ -1,3 +1,9 @@
+# ⭐ Estructuras Condicionales en C
+
+Las estructuras condicionales permiten **tomar decisiones** dentro de un programa según el valor de una condición lógica. Son fundamentales para controlar el flujo del software y decidir qué bloque de código se ejecuta. [9]
+
+---
+
 # If - else if - else
 El ejercicio consiste en solicitar al usuario un número entero comprendido entre 1 y 7, con el objetivo de determinar y mostrar el día de la semana que corresponde a dicho valor. Para resolverlo, se debe emplear estructuras condicionales como if, else y switch, lo que permite comparar distintas formas de tomar decisiones dentro de un programa. El problema busca que el estudiante identifique cómo funcionan estas estructuras al evaluar una misma entrada y producir una salida diferente según la condición que se cumpla. Además, se debe considerar el manejo de valores inválidos, mostrando un mensaje de error cuando el número ingresado esté fuera del rango establecido.
 | Estructura  | Descripción                                                                                  |
