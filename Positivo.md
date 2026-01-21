@@ -1,57 +1,11 @@
-# 🧮 Calcular la masa de aire
+# 🧮 Un número perfecto
 
-**Primer Ejercicio:** Escriba un programa que permita calcular la masa de aire con la siguiente fórmula: masa = (presión * volumen) / (0.37 * (temperatura + 460)). El ingreso de la masa, presión y volumen son cantidades enteras ingresadas por el usuario.
+**Ejercicio:** Realice un programa que determine si un número entero positivo n es o no perfecto. Un número perfecto es un entero que es igual a la suma de los divisores positivos menores que él mismo. Ejemplo 6 = 1+2+3.
 
-## ⚠️ Análisis del problema
-* 🎯 El problema indica que "El ingreso de la masa, presión y volumen son cantidades enteras". Esto parece un error en el
-planteamiento, ya que la **masa** es el resultado a calcular. 
-
-**📥 Datos de entrada**
-* 📝 Tres valores numéricos enteros ingresados por el usuario: `presion`, `volumen`, `temperatura`.
-* 🔢 Asumiremos que los datos de entrada son **presión, volumen y temperatura** como enteros.
-
-**⚙️ Proceso**
-* 🧮 Fórmula: `masa = (presion * volumen) / (0.37 * (temperatura + 460))`
-* El cálculo involucra una división y un número decimal (0.37), por lo que el resultado (`masa`) será un número real.
-
-**📤 Salida**
-* 🎯 El valor de la `masa` de aire (un valor real/decimal).
-
-## **📝 Pseudocódigo (PSeInt)**
-
-```pseint
-Algoritmo CalcularMasaAire
-	Definir presion, volumen, temperatura Como Entero
-	Definir masa Como Real
-	
-	// Datos de entrada
-	Escribir "Ingrese la presión (entero):"
-	Leer presion
-	Escribir "Ingrese el volumen (entero):"
-	Leer volumen
-	Escribir "Ingrese la temperatura (entero):"
-	Leer temperatura
-	
-	// Proceso
-	masa <- (presion * volumen) / (0.37 * (temperatura + 460))
-	
-	// Salida
-	Escribir "La masa de aire es: ", masa
-FinAlgoritmo
-```
-**Prueba de escritorio**
+## ⚠️ Prueba de escritorio
 | presion | volumen | temperatura | Operación | Masa |
 |---|---|---|---|---|
 | 100 | 50 | 40 | (100 * 50) / (0.37 * (40 + 460)) | 27.027... |
-
-**📤Salida mostrada en Pseint**
-
-<img width="500" height="396" alt="image" src="https://github.com/user-attachments/assets/4ef75e75-b9e9-4fbd-9e40-3fbe164402a5" />
-
-**🧮Diagrama de Flujo**
-
-<img width="300" alt="Diagrama de Flujo Masa de Aire" src="https://github.com/user-attachments/assets/d4d2ee3c-b603-45aa-a14b-48d5b7e9ce25" />
-
 
 ## 🖥️ Código en C  
 	
@@ -94,3 +48,7 @@ FinAlgoritmo
 
 ## 💡 Breve explicación
 Este código toma tres datos ingresadas por el usuario como es la presion, la temperatura y el volumen, calcula la masa del aire y muestra el resultado en pantalla. 🎯
+
+[Volver a la unidad 2](Unidad2.md)
+
+[Volver al inicio](Inicio.md)
