@@ -48,7 +48,7 @@
 
 **🔢 Ejecucion en C**
 
-<<img width="483" height="90" alt="image" src="https://github.com/user-attachments/assets/31fc6c34-bc15-4a3d-bb5c-6bd51266f710" />
+<img width="483" height="90" alt="image" src="https://github.com/user-attachments/assets/31fc6c34-bc15-4a3d-bb5c-6bd51266f710" />
 
 ## 💡 Breve explicación
 El código suma todos los divisores de un número (menores que él) y comprueba si esa suma es igual al número original para determinar si es "perfecto" 🎯
