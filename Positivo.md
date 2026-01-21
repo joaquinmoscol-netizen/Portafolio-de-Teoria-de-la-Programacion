@@ -27,19 +27,19 @@
 	int main() {
     int n, i, suma = 0;
 
-    printf("Ingrese un numero entero positivo: ");
+    printf("Ingrese un numero entero positivo:");
     scanf("%d", &n);
 
     for(i = 1; i < n; i++) {
         if(n % i == 0) {
-            suma += i;
+            suma = suma + i;
         }
     }
 
     if(suma == n) {
-        printf("%d es un numero perfecto.\n", n);
+        printf("\n %d Es un numero perfecto.\n", n);
     } else {
-        printf("%d no es un numero perfecto.\n", n);
+        printf("\n %d No es un numero perfecto.\n", n);
     }
 
     return 0;
@@ -48,11 +48,10 @@
 
 **🔢 Ejecucion en C**
 
-<img width="467" height="119" alt="image" src="https://github.com/user-attachments/assets/29a15c82-f1cd-473c-b0fe-bd43613dc866" />
-
+<<img width="483" height="90" alt="image" src="https://github.com/user-attachments/assets/31fc6c34-bc15-4a3d-bb5c-6bd51266f710" />
 
 ## 💡 Breve explicación
-Este código toma tres datos ingresadas por el usuario como es la presion, la temperatura y el volumen, calcula la masa del aire y muestra el resultado en pantalla. 🎯
+El código suma todos los divisores de un número (menores que él) y comprueba si esa suma es igual al número original para determinar si es "perfecto" 🎯
 
 [Volver a la unidad 2](Unidad2.md)
 
